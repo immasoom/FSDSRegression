@@ -1,0 +1,24 @@
+
+
+1. Data from source
+2.EDA
+3.Feature Engineering
+4.Model Training
+5.Model Deployment
+
+
+In a nutshell, these are also called components
+
+1.Data Cleaning ..Input raw data , output : cleaned data
+2.Data Ingestion ... input: cleaned data..we do train test split.. output..train and test data     
+3.Data Transformation ... Feature engineering..output: train and test data
+4.Model Training...Input: Train and Test data. We will create pickle file
+5.Model Evaluation
+6.Model Deployment
+
+
+Enitre Process is for Training the Moder. we can say training pipeline. starting from step 1 and ends at step 6
+
+
+Prediction pipeline:
+
