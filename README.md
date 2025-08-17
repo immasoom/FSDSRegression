@@ -27,3 +27,28 @@ git init
 ```
 git add .
 ```
+
+### commit file
+```
+git commit -m "first commit"
+```
+
+### git remote 
+```
+git remote -v
+```
+
+### setup the branch
+```
+git branch -M main
+```
+
+### add origin
+```
+git remote add origin https://github.com/immasoom/FSDSRegression.git
+```
+
+### push to git
+```
+git push -u origin main
+```

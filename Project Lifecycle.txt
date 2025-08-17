@@ -17,7 +17,7 @@ In a nutshell, these are also called components
 6.Model Deployment
 
 
-Enitre Process is for Training the Moder. we can say training pipeline. starting from step 1 and ends at step 6
+Enitre Process is for Training the Model. We can say training pipeline. starting from step 1 and ends at step 6
 
 
 Prediction pipeline:

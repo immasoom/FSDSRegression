@@ -2,5 +2,7 @@ numpy
 pandas
 Flask
 matplotlib
+seaborn
+ipykernel
 #in each update of requirements.txt , our setup.py should get trigger. for this w euse below cimmand
 -e .
