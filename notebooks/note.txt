@@ -1,1 +1,13 @@
 ### EDA, Feature Engineering etc will be done here in notebooks ####
+
+1. Data Ingestion
+   Input: Source path, read Data
+   Output: Train and Test split
+
+2. Data Transformation (Handling Missing Values, Feature Scaling,handling categorical, numerical features, feature Engineering)
+   Input: Train Data and Test Data
+   Output:
+   1. Transformed Data
+   2. Pickle file( Pipeline pickle file (model which we create , save into hard disk))...This will also be saved in artifacts
+
+3. 
