@@ -22,7 +22,7 @@ class CustomException(Exception):
     def __str__(self):
         return self.error_message
     
-"""
+
 if __name__=="__main__":
     logging.info("logging has started")
 
@@ -31,5 +31,5 @@ if __name__=="__main__":
     except Exception as e:
         logging.info("Error has occured")
         raise CustomException(e,sys)
-"""
+
 
